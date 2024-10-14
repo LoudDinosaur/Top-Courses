@@ -1,6 +1,6 @@
 # Top-Courses-App
 
-Top Courses is a responsive web application built with React that provides users with an easy-to-navigate platform for exploring and accessing various online courses. This project focuses on delivering a clean, modern UI with real-time feedback and seamless browsing, leveraging React hooks and Tailwind CSS for a highly responsive and interactive experience.
+Top Courses App is a responsive web application built with React that provides users with an easy-to-navigate platform for exploring and accessing various online courses. This project focuses on delivering a clean, modern UI with real-time feedback and seamless browsing, leveraging React hooks and Tailwind CSS for a highly responsive and interactive experience.
 
 🚀 **Features**
 1. **Course Categories:** Browse through a wide range of course categories with a simple click.
